@@ -1,4 +1,3 @@
-# complaint-management-system
 # 🛠 Complaint Management System (Laravel + React)
 
 A full-stack complaint management system built with **Laravel 10 (backend)** and **React.js (frontend)** using **JWT-based authentication**.
