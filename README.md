@@ -14,11 +14,6 @@ A full-stack complaint management system built with **Laravel 10 (backend)** and
 
 ---
 
-## Folder Structure
-
-
----
-
 ## Tech Stack
 
 - **Frontend**: React.js, Axios, Bootstrap 4
