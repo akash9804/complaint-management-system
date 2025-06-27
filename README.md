@@ -1,10 +1,10 @@
-# 🛠 Complaint Management System (Laravel + React)
+# Complaint Management System (Laravel + React)
 
 A full-stack complaint management system built with **Laravel 10 (backend)** and **React.js (frontend)** using **JWT-based authentication**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - Users can register, login, and submit complaints.
 - Admins can view and update the status of complaints.
@@ -14,12 +14,12 @@ A full-stack complaint management system built with **Laravel 10 (backend)** and
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Axios, Bootstrap 4
 - **Backend**: Laravel 10, tymon/jwt-auth, MySQL
@@ -28,7 +28,7 @@ A full-stack complaint management system built with **Laravel 10 (backend)** and
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
